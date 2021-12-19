@@ -1,0 +1,103 @@
+html{
+    
+    font-family: 'Poppins', sans-serif;
+}
+#container{
+    padding: 0 18%;
+}
+#navbar{
+    padding-top: 0;
+    background-color: black;
+    
+}
+.navimg{
+    height: 15px;
+    width: 20px;
+}
+span .col{
+    color: white;
+}
+#namtit{
+    background-color: black;
+    color: white;
+    font-size: 28px;
+    text-align: center;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+h2{
+    font-weight: 800;
+}
+#leftsidebar{
+    text-align: left;
+/*    padding-right: 50%;*/
+}
+span a{
+    padding-top: 0;
+}
+li a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+li img{
+/*    height: 18px;*/
+/*    width: 18px;*/
+}
+
+.tab{
+    background-color: lightgray;
+    padding: 2px 8px;
+    color: black;
+}
+#alltabs{
+    text-align: center;
+}
+#rightsidebar{
+/*    padding-left: 50%;*/
+    padding-top: 0;
+    
+}
+.hea{
+    padding-right: 2px;
+    background-color: gray;
+    color: white;
+}
+.hea:hover{
+    background-color: black;
+}
+.col{
+    color: black;
+}
+sidebar li{
+    padding-top: 0;
+}
+#section2 span a{
+    font-size: small;
+    font-weight: thick;
+}
+#section3 span a{
+    font-size: small;
+    font-weight: thick;
+}
+#section4 span a{
+    font-size: small;
+    font-weight: thick;
+}
+#section5 span a{
+    font-size: small;
+    font-weight: thick;
+}
+
+.footer{
+    background-color: black;
+    color: lightgray;
+    text-align: center;
+    font-size: small;
+}
